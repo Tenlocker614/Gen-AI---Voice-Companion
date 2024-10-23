@@ -48,7 +48,7 @@ The **GenAI Voice Companion** is a Python-based application that records your vo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/GenAI-Voice-Companion.git
+   git clone https://github.com/Tenlocker614/GenAI---Voice-Companion.git
 
 2. **Run the application: Start the Streamlit application by running the following command:**
     ```bash
